@@ -1,0 +1,14 @@
+D:\Cyber_C#\BTVN_ExtraBuoi2\bin\Debug\net8.0\BTVN_ExtraBuoi2.exe
+D:\Cyber_C#\BTVN_ExtraBuoi2\bin\Debug\net8.0\BTVN_ExtraBuoi2.deps.json
+D:\Cyber_C#\BTVN_ExtraBuoi2\bin\Debug\net8.0\BTVN_ExtraBuoi2.runtimeconfig.json
+D:\Cyber_C#\BTVN_ExtraBuoi2\bin\Debug\net8.0\BTVN_ExtraBuoi2.dll
+D:\Cyber_C#\BTVN_ExtraBuoi2\bin\Debug\net8.0\BTVN_ExtraBuoi2.pdb
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.AssemblyInfoInputs.cache
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.AssemblyInfo.cs
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.csproj.CoreCompileInputs.cache
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.dll
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\refint\BTVN_ExtraBuoi2.dll
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.pdb
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\BTVN_ExtraBuoi2.genruntimeconfig.cache
+D:\Cyber_C#\BTVN_ExtraBuoi2\obj\Debug\net8.0\ref\BTVN_ExtraBuoi2.dll
